@@ -13,7 +13,7 @@
  * $adzerk->advertiser(null, array()); // arg1: null, arg2: array of data (plain-text associative PHP array)
  * 
  * Update Advertiser
- * $adzerk->advertiser($AdvertiserId, array()); // arg1: (int) Advertiser ID, arg2: array of data (plain-text associative PHP array)
+ * $adzerk->advertiser($advertiserId, array()); // arg1: (int) Advertiser ID, arg2: array of data (plain-text associative PHP array)
  * 
  * All responses are returned by default, as an associative PHP array
  * 
